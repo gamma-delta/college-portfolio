@@ -14,7 +14,7 @@ I'm on a team of about 100 people working to create a whole new Pokemon game usi
 
 For the original map, I worked on music, building the map, and creating some of the mechanics. For the planned updated version, I'm also in charge of the development servers.
 
-[Here is a link to the official website.] I'm marked down as Gamma in the credits, under Music/SFX Design, Map Building, and Map Engineers.
+[Here is a link to the official website.](https://phnixprojects.com/pokeca/) I'm marked down as Gamma in the credits, under Music/SFX Design, Map Building, and Map Engineers.
 
 Cluckalor is no joke.
 
